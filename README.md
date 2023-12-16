@@ -57,7 +57,7 @@ Konecheck
 
 # License
 
-This project is MIT licensed for use by all.
+This project is MIT licensed for open use by all.
 
 # Acknowledgments
 
